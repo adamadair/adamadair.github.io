@@ -37,7 +37,7 @@ charging the battery. This takes an unusually long time. I opened the box
 at 1 pm, and started charging the battery at about 2 pm. The battery did not
 complete charging until 8:47 pm, and it was dark outside then. 
 
-2. Watch [this video] (https://www.youtube.com/watch?v=ooA6KQggrt0) while your waiting for the battery to charge. This is really all you need.
+2. Watch [this video](https://www.youtube.com/watch?v=ooA6KQggrt0) while your waiting for the battery to charge. This is really all you need.
 
 3. Get started uninstalling the old doorbell, and mount the mounting bracket if 
 you need one, while you wait. I used the angled one. There is a tiny tiny little
