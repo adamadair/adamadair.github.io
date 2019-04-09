@@ -1,0 +1,41 @@
+---
+layout: post
+title: "I love Go"
+date: "2019-04-08 22:22:41 -0500"
+---
+Last month I ordered the UNIX sticker Pro Pack from [Sticker Mule](https://www.stickermule.com/unixstickers) for $1. One of the stickers was of this cute
+little guy:
+
+![go lang gopher](https://camo.githubusercontent.com/98ed65187a84ecf897273d9fa18118ce45845057/68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722e706e67){:height="10%" width="10%"}
+
+My daughter saw the sticker and asked me about it and I had to admit I had no
+idea what it was. I did a quick google search and determined it was the mascot
+of the Go programming language.
+
+I couldn't in good conscience use the sticker if I didn't know how to program
+in Go, so I did the [tour](https://tour.golang.org/welcome/1). I was impressed
+with the introduction, and I came away determined to learn the language.
+
+When learning a new language, I always try to couple the learning process with something fun. I
+started learning Java by using it to create an Asteroids clone before I tried to use
+it in a business application. I started learning C# by using it to program
+a chess engine. I learned Python by competing on the CodeFights web site which
+is now [CodeSignal](https://codesignal.com/). To learn Go I decided to make
+an AI bot that competes on the [Riddles.io](https://www.riddles.io/) web site.
+I think that goroutines may be useful that aspect, I'm just not sure how yet.
+
+I decided the first competition to enter will be the AI Block Battle. I coded up
+a starter bot that others could use to get started making a go-bot which I
+put [here on github](https://github.com/adamadair/blockbattle-startbot-go). I
+haven't completed my entry yet, but I'm hoping to have something to release soon.
+
+I bought the book ["The Go Programming Language"](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_1?hvadid=323417344445&hvdev=c&hvlocphy=1020048&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=1051967924508625190&hvtargid=kwd-615257639202&keywords=go+programming+books&qid=1554782982&s=gateway&sr=8-1)
+by Alan A. A. Donovan and Brian W. Kernighan, and this was one of the best
+computer books I have purchased in a very long time. I finished working through
+it in about a week, and when I was done I had a new favorite language. This
+happens to me about every 5 years, and usually I have no good use for the
+language that just became my absolute favorite, and this time is no different.
+This language will never become part of the technical architecture of where
+I work, and I can't think of anything very useful to do with Go, other than
+compete in programming competitions and develop game playing bots. Does anyone
+hire Go programmers for something useful? 
