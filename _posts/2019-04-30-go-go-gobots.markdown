@@ -4,11 +4,12 @@ title: "Go Go GoBots!"
 date: "2019-04-30 15:15:55 -0500"
 ---
 
-Riddles.io is codesports platform where you write bots in a language of your
+[Riddles.io](https://www.riddles.io/) is codesports platform where you write bots in a language of your
 choice to play games in one of their hosted competitions. I've written bots
 that play Texas Hold'em poker, Ultimate Tic Tac Toe, and other games. I was
 recently on vacation in Arizona where I wrote down some notes on making a
-bot to compete in their AI Block Battle game, and when I got home I coded a
+bot to compete in their [AI Block Battle](https://playground.riddles.io/competitions/ai-block-battle)
+game, which is a Tetris like competition. When I got home I coded a
 quick bot in C# to get the communications down and uploaded it to the site
 and then promptly forgot about it.
 
