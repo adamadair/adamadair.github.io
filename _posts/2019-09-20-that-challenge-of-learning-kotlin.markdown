@@ -29,7 +29,7 @@ The book is well written and entertaining, and I would recommend it to anyone
 interested in Kotlin with the following caveat: You need to know Java well to
 get the most from this book. In fact, that is the problem I ran across with
 all learning material for Kotlin is that it requires you to be proficient in
-Java. I was Sun Certified in Java 1.2 back in 2003, but Java is one of my
+Java. I was certified in Java 1.2 by Sun Microsystems back in 2003, but Java is one of my
 "forgotten" languages having not done any professional work in it since 2006
 and writing my last line of Java in 2009.
 
