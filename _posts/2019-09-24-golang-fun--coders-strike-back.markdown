@@ -4,7 +4,7 @@ title: "Golang Fun: Coders Strike Back!"
 date: "2019-09-24 11:50:44 -0500"
 ---
 I've recently been learning Kotlin and I was looking for a site where I could practice
-my new found skills when I came across the CodinGame site. This is a site where
+my new found skills when I came across the [CodinGame](https://www.codingame.com/) site. This is a site where
 you play games by writing code. This combines two of my favorite activities!
 
 One of the games is called "Coders Strike Back" which is a Star Wars based
