@@ -32,21 +32,21 @@ What follows is my experience attempting to build Unreal Engine 4.24 from Epic G
 9. Run Setup.sh. Fucking hell! That took 17m and 12 seconds. We're almost 40 minutes into this and we haven't even gotten to the compile step yet. I am seriously rethinking this whole Linux only thing. 
     
 10. Open another beer.
-
+    
 11. Run GenerateProjectFiles.sh.
-
+    
 12. While it's generating project files start making a little pyramid with beer cans. Hey, this part only took 3 minutes and 7 seconds! 
-
+    
 13. Run make. Now we're getting somewhere.
-
+    
 14. This part they actually warn may take some time, so I take the opportunity to crutch my ass to the restroom, then get another Hamm's beer.
-
+    
 15. Admire the pyramid.
-
+    
 16. Startup the XBox and play some State of Decay 2, which interestingly enough was made with Unreal Engine 4.
-
+    
 17. About an hour later I rage quit State of Decay. Check on the compile progress...still chugging away. Go put on pajamas, and...you guesed it...get another beer. 
-
+    
 18. 205 minutes and 40 seconds later...it's done. Time for a test run! Oh for love of Pete! It starts initializing then at 18% initialized it stops, and it looks like it hangs. Apparently it is verifying global shaders, and that must take the better part of forever. I can't drink anymore beer. I have to work tomorrow. Maybe I'll get caught up on my correspondence. Who needs a letter from me?
-
+    
 19. It's now stuck at 45% and it's compiling something or other. I've lost track of how much time it has taken. I'm ready for bed. I started at about 7 pm, and it's now after midnight. I have to work in the morning, even if it is from home. I'll have to pick it up in the morning. As I head to bed it has 2997 shaders left to compile.
