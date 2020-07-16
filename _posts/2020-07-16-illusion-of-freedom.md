@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Illusion of Freedom, or why you should where your mask
+title: The Illusion of Freedom, or why you should wear your mask
 date: 2020-07-16 12:14
 category: 
 author: Adam Adair
