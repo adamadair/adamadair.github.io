@@ -8,8 +8,8 @@ tags: [COVID-19]
 summary: 
 ---
 
-I've had the opportunity to engage with people who don't where masks to find out why the choose to not do something
-that seems so simple that, to me, it seems silly to not wear the mask. I've heard about psychological issues, as well 
+I've had the opportunity to engage with people who don't wear masks to find out why the choose to not do something
+that seems so simple that, to me, it seems silly to not just do it. I've heard about psychological issues, as well 
 as discomfort due to physical issues or illness. I can understand those reasons. The one that baffles me is the 
 people who believe this is government conspiracy to control them.  
 
