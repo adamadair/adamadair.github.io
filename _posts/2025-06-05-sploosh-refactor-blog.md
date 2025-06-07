@@ -1,6 +1,15 @@
-# Breaking Up Is Hard to Do (Unless You're a Built-in Command)
+---
+layout: post
+title: Sploosh! Refactoring stuff
+date: 2025-06-05 17:10
+category: 
+author: Adam Adair
+tags: [Sploosh POSIX Shell]
+summary: 
+---
 
-_Date: 2025-06-05_
+# Breaking Up Is Hard to Do (Unless You're a Built-in Command)
+I was starting to notice a problem with the code.
 
 ## The Problem: A Dysfunctional Relationship
 
