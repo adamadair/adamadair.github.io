@@ -1,3 +1,13 @@
+---
+layout: post
+title: The Cookiepocalypse
+date: 2025-06-05 17:10
+category: 
+author: Adam Adair
+tags: [Humor Cookies]
+summary: The darkly humorous tale of the end of the world.
+---
+
 # The Cookiepocalypse
 
 ## The Secret Lair in the Midwest  
