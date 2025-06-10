@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Cookiepocalypse
-date: 2025-06-05 17:10
+date: 2025-06-10 17:10
 category: 
 author: Adam Adair
 tags: [Humor Cookies]
