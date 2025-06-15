@@ -23,7 +23,9 @@ Many methods for global annihilation have been considered: nuclear war, killer A
 
 We begin by calculating Earth's gravitational binding energy, using the classical formula:
 
-$E = \frac{3GM^2}{5R}$
+$$
+E = \frac{3GM^2}{5R}
+$$
 
 Where:  
 - $$G = 6.674 \times 10^{-11} \, \text{m}^3/\text{kg}/\text{s}^2$$ (gravitational constant)  
