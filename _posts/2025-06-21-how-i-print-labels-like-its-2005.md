@@ -1,4 +1,12 @@
-
+---
+layout: post
+title: How I Print Labels Like It’s 2005
+date: 2025-06-21 19:10
+category: 
+author: Adam Adair
+tags: [Humor Zebra Labels ZPL]
+summary: How I Print Labels Like It’s 2005
+---
 # How I Print Labels Like It’s 2005
 
 Ah, 2005.
