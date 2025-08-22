@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: ASPR-006-ODIN: My First Orbit
