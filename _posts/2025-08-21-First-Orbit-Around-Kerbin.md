@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASPR-006-ODIN: My First Orbit
+title: ASPR-006-ODIN -- My First Orbit
 date: 2025-08-21 19:10
 category: 
 author: Adam Adair
